@@ -40,7 +40,7 @@ main()
     
 
 
-![png](output_1_1.png)
+![png](images/output_1_1.png)
 
 
 
